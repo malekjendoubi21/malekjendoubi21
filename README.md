@@ -5,10 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=malekjendoubii&color=blue&style=flat" alt="Profile Views" />
 </p>
 
+## 🌐 Socials:  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/malekjendoubii)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/malek_jendoubii/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-jendoubi-ba502523b/)  
 
-
-## 🌐 Socials:  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/malekjendoubii)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/malek_jendoubii/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-jendoubi-ba502523b/)  
 ---
+
 ## 💻 Tech Stack
 
 ### 🖥️ Langages de programmation  
@@ -30,10 +33,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-Hotpink?style=for-the-badge&logo=sass&logoColor=white)
 
 ### 🛠️ Outils & IDE  
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=green) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=green) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
@@ -64,8 +64,8 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=malekjendoubi21&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-<<p align="center">
-  <a href="https://github.com/itsMoetaz/project-management-platform" target="_blank">
+<p align="center">
+  <a href="https://github.com/itsMoetaz/project-management-platform" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/itsMoetaz/project-management-platform/main/logo.png" alt="Planify Logo" width="150" />
   </a>
 </p>
@@ -75,8 +75,3 @@
     Planify is a comprehensive full-stack project management platform designed to streamline the organization of projects, tasks, teams, and deadlines. It combines intuitive user interfaces with AI-powered analytics to help teams prioritize work intelligently and forecast performance trends.
   </em>
 </p>
-
-
-
-
-
