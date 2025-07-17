@@ -40,7 +40,7 @@
 ## 🏆 GitHub Trophies 📊 GitHub Stats 📘 Most Used Languages 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malekjendoubi21&theme=tokyonight&margin-w=10&row=1&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=malekjendoubi21&theme=gruvbox&margin-w=10&row=2&column=3" />
 </p>
 
 <p align="center">
@@ -48,13 +48,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malekjendoubi21&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malekjendoubi21&langs_count=10&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=malekjendoubi21&theme=tokyonight&border_radius=10" />
 </p>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malekjendoubi21&theme=tokyonight" />
@@ -64,3 +63,15 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=malekjendoubi21&theme=react-dark&area=true&hide_border=true" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/malekjendoubi21/mon-projet-important" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malekjendoubi21&repo=mon-projet-important&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/malekjendoubi21/autre-projet" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malekjendoubi21&repo=autre-projet&theme=tokyonight" />
+  </a>
+</p>
+
+
+
