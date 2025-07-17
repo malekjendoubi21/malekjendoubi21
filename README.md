@@ -64,9 +64,9 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=malekjendoubi21&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-<p align="center">
+<<p align="center">
   <a href="https://github.com/itsMoetaz/project-management-platform" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsMoetaz&repo=project-management-platform&theme=tokyonight" />
+    <img src="https://raw.githubusercontent.com/itsMoetaz/project-management-platform/main/logo.png" alt="Planify Logo" width="150" />
   </a>
 </p>
 
@@ -75,6 +75,7 @@
     Planify is a comprehensive full-stack project management platform designed to streamline the organization of projects, tasks, teams, and deadlines. It combines intuitive user interfaces with AI-powered analytics to help teams prioritize work intelligently and forecast performance trends.
   </em>
 </p>
+
 
 
 
