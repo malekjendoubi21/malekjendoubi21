@@ -19,6 +19,14 @@
   <a href="https://www.linkedin.com/in/malek-jendoubi-ba502523b/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:malekeljendoubi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:malek.jendoubi@esprit.tn">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
 </p>
 
 
