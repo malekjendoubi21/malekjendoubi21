@@ -2,7 +2,6 @@
 <h3 align="center">Computer engineering student at ESPRIT Tunisia, focused on full-stack development, modern web technologies, and DevOps practices.</h3>
 
 <p align="center">
-  👁️ Profile Views<br>
   <img src="https://komarev.com/ghpvc/?username=malekjendoubii&color=blue&style=flat" alt="Profile Views" />
 </p>
 
