@@ -5,10 +5,22 @@
   <img src="https://komarev.com/ghpvc/?username=malekjendoubii&color=blue&style=flat" alt="Profile Views" />
 </p>
 
-## 🌐 Socials:  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/malekjendoubii)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/malek_jendoubii/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-jendoubi-ba502523b/)  
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://www.facebook.com/malekjendoubii" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/malek_jendoubii/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/malek-jendoubi-ba502523b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 
 ---
 
