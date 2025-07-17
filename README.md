@@ -31,4 +31,8 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malekjendoubi21&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malekjendoubi21&theme=tokyonight" />
+</p>
 
