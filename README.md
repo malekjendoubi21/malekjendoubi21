@@ -65,8 +65,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/malekjendoubi21/mon-projet-important" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=malekjendoubi21&repo=mon-projet-important&theme=tokyonight" />
+  <a href="https://github.com/itsMoetaz/project-management-platform" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsMoetaz&repo=project-management-platform&theme=tokyonight" />
   </a>
   <a href="https://github.com/malekjendoubi21/autre-projet" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malekjendoubi21&repo=autre-projet&theme=tokyonight" />
