@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Malek Jendoubi</h1>
 <h3 align="center">Computer engineering student at ESPRIT Tunisia, focused on full-stack development, modern web technologies, and DevOps practices.</h3>
-## 👁️ Profile Views
+👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=malekjendoubii&color=blue&style=flat)
 
