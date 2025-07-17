@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Malek Jendoubi</h1>
-<h3 align="center">A passionate full-stack developer from Tunisia</h3>
+<h1 align="center">Hello, I'm Malek Jendoubi</h1>
+<h3 align="center">Computer engineering student at ESPRIT Tunisia, focused on full-stack development, modern web technologies, and DevOps practices.</h3>
+
 
 ---
 
