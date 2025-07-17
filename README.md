@@ -61,3 +61,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malekjendoubi21&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=malekjendoubi21&theme=react-dark&area=true&hide_border=true" />
+</p>
