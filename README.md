@@ -31,6 +31,20 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=malekjendoubii&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
 ---
+<h3 align="center">🏆 GitHub Trophies &nbsp;&nbsp;&nbsp;&nbsp; 📊 GitHub Stats &nbsp;&nbsp;&nbsp;&nbsp; 📘 Most Used Languages &nbsp;&nbsp;&nbsp;&nbsp; 🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=malekjendoubii&theme=tokyonight&margin-w=10&row=1&column=4" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malekjendoubii&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malekjendoubii&layout=compact&theme=tokyonight" alt="Top Langs" width="300"/>
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=malekjendoubii&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="400"/>
+</p>
+
 
 ## 👁️ Profile Views
 
